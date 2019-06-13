@@ -11,7 +11,7 @@
 ### 引用
 
 ```
-apply from: 'https://raw.githubusercontent.com/ixyxj/jcenter-example/master/file/publish.gradle'
+apply from: 'https://raw.githubusercontent.com/ixyxj/jcenter-example/master/v1/publish.gradle'
 ```
 
 
